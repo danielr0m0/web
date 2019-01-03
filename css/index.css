@@ -1,0 +1,72 @@
+body{
+    background-color: aliceblue; 
+}
+
+#main{
+    width: 100%;
+    min-height: 550px;
+    height: 100vh;
+ }
+ 
+ #intro-text{
+     position: absolute; 
+     top: 5px; 
+     width: 100%; 
+     color:  aliceblue; 
+     text-align: center;
+     height: auto;
+ }
+
+ #iconsLinks{
+     text-align: center;
+ }
+
+h1{
+    text-align: center;
+}
+#typeText{
+     font-size: 6rem;
+}
+
+#resume{
+    border: none;
+}
+
+#gitHub{
+    background: #6e5494;
+    border: none;
+}
+
+#about{
+    height: 3vh;
+}
+
+#slideShow{
+    margin:auto;
+    padding:15px;
+}
+
+#work{
+    color: aliceblue;
+    padding: 25px;
+    padding-bottom: 35px;
+    
+}
+
+
+@media  (max-width: 600px)  {
+    #typeText{
+        font-size: 5rem;
+    }
+    h1{
+        font-size: 32px;
+    }
+    h2{
+        font-size: 26px;
+    }
+}
+
+
+
+
+
