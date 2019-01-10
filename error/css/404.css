@@ -1,0 +1,17 @@
+html{
+    height:100%;
+  }
+  body{
+    background: url(../img/mountain.jpg);
+    height: 100%;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.transparent{
+  background: #dfd7d7;
+  border: 1px;
+  opacity: .8;
+}
+
